@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT STUDENTS (STUDENT*)>
+<!ELEMENT STUDENT (STUDENTDATA*)>
+<!ELEMENT STUDENTDATA (regno,name,average,dob,time,age,MobileNo,Distinction)>
+<!ELEMENT regno (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT average (#PCDATA)>
+<!ELEMENT dob (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT MobileNo (#PCDATA)>
+<!ELEMENT Distinction (#PCDATA)>

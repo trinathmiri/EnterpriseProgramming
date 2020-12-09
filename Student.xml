@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE STUDENTS SYSTEM "E:\XML1\Student.dtd">
+<STUDENTS>
+ <STUDENT>
+ <STUDENTDATA>
+	<regno>12345</regno>
+    <NAME> Sivamani </TNAME>
+    <average>  92 </average>
+<dob>25/12/1989</dob>
+<time>7.45Pm</time>
+    <AGE> 20 </AGE>
+  <MobileNo="9848022338"/>
+<Distinction>Yes</Distinction>
+  </STUDENTDATA>
+</STUDENT>
+</STUDENTS>
